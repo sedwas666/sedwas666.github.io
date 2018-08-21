@@ -1,6 +1,6 @@
 ## Welcome to 小朋友的主页
 
-<!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -27,17 +27,12 @@
 
 
         <header class="nav-down responsive-nav hidden-lg hidden-md">
-            <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
+       
             <!--/.navbar-header-->
             <div id="main-nav" class="collapse navbar-collapse">
                 <nav>
                     <ul class="nav navbar-nav">
-                        <li><a href="#top">Home</a></li>
+                        <li><a href="#top">张诗怡</a></li>
                         <li><a href="#featured">Featured</a></li>
                         <li><a href="#projects">Recent Projects</a></li>
                         <li><a href="#video">Presentation</a></li>
@@ -331,7 +326,7 @@
                             </div>
                         </div>
                     </div>
-                </div>  <div class="tlinks">Collect from <a href="http://www.cssmoban.com/"  title="网站模板">网站模板</a></div>          
+             
   
 
     <script>
